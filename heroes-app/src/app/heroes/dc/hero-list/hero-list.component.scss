@@ -1,0 +1,25 @@
+// heroes-app\src\app\heroes\dc\hero-list\hero-list.component.scss
+
+mat-form-field {
+  margin: 0 auto 24px auto;
+  width: 100%;
+  background: #fff;
+  border-radius: 9px;
+  box-shadow: 0 2px 8px rgba(25, 118, 210, 0.06);
+  .mat-form-field-label {
+    color: #04274a !important;
+    font-weight: 600;
+  }
+  .mat-input-element {
+    color: #263238;
+    font-size: 1.1em;
+  }
+}
+.hero-search {
+  width: 100%;
+  margin-bottom: 18px;
+  .mat-form-field-label {
+    color: #041d36;
+
+  }
+}

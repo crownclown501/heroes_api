@@ -1,0 +1,13 @@
+// heroes-app\src\app\heroes\marvel\marvel.component.scss
+
+.marvel-background {
+  background-image: url('../../images/marvel.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height: 40vh;
+  @media (max-width: 62rem) {
+      min-height: 20vh !important;
+  }
+  
+}
