@@ -1,0 +1,947 @@
+[
+  {
+    "CAPITULO": "6000",
+    "NOMBRE": "INVERSIÓN PÚBLICA",
+    "COG": "6.2.2.3",
+    "NOMCOG": "EDIFICACIONES EDUCATIVAS Y CULTURALES",
+    "CONCEPTOS": "Asignaciones destinadas para la  construcción, ampliación, remodelación, mantenimiento o reparación integral de las edificaciones no habitacionales para fines educativos y culturales tales como: Auditorios, Bibliotecas; Hemeroteca; ludoteca; sala de lectura, escuelas de cualquier nivel educativo; laboratorios con fines educativos; centro de convenciones entre otras. Incluye los gastos en estudios de pre-inversión y preparación del proyecto reparación integral de las construcciones, así como los gastos en estudios de pre-inversión y preparación del proyecto."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.1.1.1",
+    "NOMCOG": "MUEBLES DE OFICINA Y ESTANTERÍA",
+    "CONCEPTOS": "Bienes muebles y sistemas modulares que requieran las dependencias y entidades para el desempeño de sus funciones tales como: archiveros, credenzas, escritorios de todo tipo, mamparas mesas, pintarrón, pizarrón, pizarrones, sillas, sillones, ficheros, percheros, libreros, pupitres, caballetes, restiradores, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.1.2.1",
+    "NOMCOG": "MUEBLES, EXCEPTO DE OFICINA Y ESTANTERÍA",
+    "CONCEPTOS": "Adquisición de todo tipo de muebles ensamblados, tapizados, sofá-camas, sillones reclinables, etc. de materiales como: mimbre, ratán, bejuco y similares; cocinas y sus partes, comedores, salas, lockers, pódium, porta garrafones, vitrinas, así como stands y exhibidores, tanto fijos como móviles, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.1.5.1",
+    "NOMCOG": "EQUIPO DE CÓMPUTO Y DE TECNOLOGÍA DE LA INFORMACIÓN",
+    "CONCEPTOS": "Equipos y aparatos de uso informático para el procesamiento electrónico de datos y para el uso de redes, así como sus refacciones y accesorios mayores tales como: servidores, computadoras, monitores, tableros de control, equipos de conectividad, unidades de almacenamiento externos, impresoras, escáner, arneses, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.1.9.1",
+    "NOMCOG": "OTROS MOBILIARIOS Y EQUIPOS DE ADMINISTRACIÓN",
+    "CONCEPTOS": "Adquisición de libros de apoyo administrativo como compendios, enciclopedias, etc.\nAdquisición de equipo de circuito cerrado de T.V., equipos de detección de fuego, alarma y voceo.\nAdquisición de equipos para el desarrollo de las actividades administrativas tales como: máquinas de escribir, sumar, calcular y registrar; equipo de fotocopiado, aspiradoras, calentadores, enceradoras, grabadoras, radios, televisores y pantallas, microfilmadoras, circuito cerrado de TV., equipo de detección de fuego, alarma y voceo, estufas, refrigeradores, lavadoras, hornos de microondas, aire acondicionado y demás bienes considerados en los activos fijos. Incluye los utensilios para el servicio de alimentación destinados al equipamiento de unidades administrativas de las Dependencias y Entidades especializadas en el servicio de alimentación."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.2.1.1",
+    "NOMCOG": "EQUIPOS Y APARATOS AUDIOVISUALES",
+    "CONCEPTOS": "Adquisición de equipos para uso educacional y recretativo tales como:  proyectores, video reproductores, micrófonos, grabadores, televisores y pantallas, amplificadores de sonido, equipos audiovisuales, bafles, consolas y equipo de iluminación, decodificadores, ecualizadores de sonidos, mezcladoras de sonidos, sintetizadores, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.2.2.1",
+    "NOMCOG": "APARATOS DEPORTIVOS",
+    "CONCEPTOS": "Adquisición de aparatos de gimnasia y prácticas deportivas, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.2.3.1",
+    "NOMCOG": "CÁMARAS FOTOGRÁFICAS Y DE VIDEO",
+    "CONCEPTOS": "Adquisición de cámaras fotográficas, equipos y accesorios fotográficos y de video, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.2.9.1",
+    "NOMCOG": "OTRO MOBILIARIO Y EQUIPO EDUCACIONAL Y RECREATIVO",
+    "CONCEPTOS": "Adquisición de muebles especializados para uso escolar, aparatos para parques infantiles, mesas especiales de juegos, instrumentos musicales para bandas y orquestas y otros equipos destinados a la educación y recreación, tales como: juego de ajedrez, maniquíes y marionetas, carruseles, botargas, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.3.1.1",
+    "NOMCOG": "EQUIPO MÉDICO Y DE LABORATORIO",
+    "CONCEPTOS": "Adquisición de aparatos funke, camillas, equipos para análisis clínicos, espectroscopios, estuches de física y química, flujómetro con humidificador, incubadoras, laboratorio portátil, lámparas de rayos ultravioleta, manijas autoclaves, máquinas esterilizadoras, medidor de pH, mesas para operación, microscopios, psicómetros, rayos X, ultrasonido, equipos de diálisis e inhaloterapia, sillas dentales, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.3.2.1",
+    "NOMCOG": "INSTRUMENTAL MÉDICO Y DE LABORATORIO",
+    "CONCEPTOS": "Adquisición de estetoscopios, máscaras para oxígeno, pinzas, separadores, instrumental de cirugía mayor o menor, estuche de diagnóstico, estuche de disección, linterna (tipo pluma) y en general todo tipo de instrumentos médicos necesarios para operaciones quirúrgicas, dentales y oftalmológicas, entre otros. Incluye el instrumental utilizado en los laboratorios de investigación científica e instrumental de medición."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.4.1.2",
+    "NOMCOG": "VEHÍCULOS Y EQUIPO TERRESTRE, DESTINADOS A SERVICIOS ADMINISTRATIVOS",
+    "CONCEPTOS": "Adquisición de automóviles, camionetas de carga ligera, furgonetas, minivans, autobuses y microbuses de pasajeros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.6.1.1",
+    "NOMCOG": "MAQUINARIA Y EQUIPO AGROPECUARIO",
+    "CONCEPTOS": "Adquisición de tractores agrícolas, cosechadoras, segadoras, incubadoras, trilladoras, fertilizadoras, desgranadoras, equipo de riego, fumigadoras, roturadoras, sembradoras, cultivadoras, espolveadoras, aspersores e implementos agrícolas, entre\notros. Incluye maquinaria y equipo pecuario, tales como: ordeñadoras, equipo para la preparación de alimentos para el ganado, para la avicultura y para la cría de animales."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.6.4.1",
+    "NOMCOG": "SISTEMAS DE AIRE ACONDICIONADO, CALEFACCIÓN Y DE REFRIGERACIÓN INDUSTRIAL Y COMERCIAL",
+    "CONCEPTOS": "Adquisición de estufas para calefacción, torres de enfriamiento, sistemas de purificación de aire ambiental y compresores para refrigeración y aire acondicionado. Excluye los calentadores industriales de agua, calentadores de agua domésticos, radiadores eléctricos, ventiladores domésticos y sistemas de aire acondicionado para equipo de transporte."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.6.5.1",
+    "NOMCOG": "EQUIPOS DE COMUNICACIÓN Y TELECOMUNICACIÓN",
+    "CONCEPTOS": "Adquisición de equipo de  comunicación satelital, equipo GPS, microondas, transmisores, receptores; equipos de télex, radar, sonar, radionavegación y video; amplificadores, equipos telefónicos fijos y móviles, telegráficos, fax y demás equipos y aparatos para el mismo fin.\nInversión en Fibra óptica.\nAquisiciones de equipo de telefonía como conmutador.\nAdquisición de equipos y aparatos de comunicación: como microondas, transmisiones, receptores, GPS. "
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.6.6.1",
+    "NOMCOG": "EQUIPO DE GENERACIÓN ELÉCTRICA, APARATOS Y ACCESORIOS ELÉCTRICOS",
+    "CONCEPTOS": "Adquisición de generadoras de energía, plantas, moto generadoras de energía eléctrica, transformadores, reguladores, equipo electrónico, tableros de transferencias, entre otros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.6.9.5",
+    "NOMCOG": "MAQUINARIA Y EQUIPO DIVERSO",
+    "CONCEPTOS": "Equipo científico y de investigación, equipo contra incendio, amortiguadores de contención y maquinaria para protección al ambiente, elevadores y escaleras eléctricas, equipo de almacenamiento y cualquier equipo de taller o mantenimiento. Ejemplo tanque estacionario de gas, bombas de agua.\nEquipo utilizado dentro de las plantas tratadoras de agua.\nEquipos para preparación de alimentos utilizados en las cocinas y comedores.\nEquipos utilizados en gasolineras "
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.1.1",
+    "NOMCOG": "BOVINOS",
+    "CONCEPTOS": "Adquisiciones de ganado bovino."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.2.1",
+    "NOMCOG": "PORCINOS",
+    "CONCEPTOS": "Aquisiciones de Cerdos."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.3.1",
+    "NOMCOG": "AVES",
+    "CONCEPTOS": "Aquisiciones de Aves."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.4.1",
+    "NOMCOG": "OVINOS Y CAPRINOS",
+    "CONCEPTOS": "Aquisiciones de Borregos y Cabras."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.5.1",
+    "NOMCOG": "PECES Y ACUICULTURA",
+    "CONCEPTOS": "Aquisiciones de peces, tortugas, caimanes, iguanas."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.6.1",
+    "NOMCOG": "EQUINOS",
+    "CONCEPTOS": "Aquisiciones de caballos, mulas, burros."
+  },
+  {
+    "CAPITULO": "5000",
+    "NOMBRE": "BIENES MUEBLES, INMUEBLES E INTANGIBLES",
+    "COG": "5.7.8.1",
+    "NOMCOG": "ÁRBOLES Y PLANTAS",
+    "CONCEPTOS": "Adquisiciones de árboles y plantas utilizados para producción de otros bienes durante en periodo mayor a un año. "
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.1.3.1",
+    "NOMCOG": "SUELDO BASE AL PERSONAL DE BASE",
+    "CONCEPTOS": ""
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.1.3.2",
+    "NOMCOG": "SUELDO BASE AL PERSONAL DE CONFIANZA",
+    "CONCEPTOS": "Asignaciones destinadas al personal administrativo o directivo de acuerdo con el puesto o categoría establecidas en los tabuladores autorizados, salario de personal directivo, personal administrativo y personal de confianza.\n"
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.3.1.1",
+    "NOMCOG": "PRIMA QUINQUENAL POR AÑOS DE SERVICIOS EFECTIVOS PRESTADOS",
+    "CONCEPTOS": "Pagos por concepto de estímulo por antigüedad."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.3.1.2",
+    "NOMCOG": "PRIMA DE ANTIGÜEDAD",
+    "CONCEPTOS": "Primas pagadas a trabajadores o, en caso de fallecimiento de éstos, a sus beneficiarios, derivados del tiempo prestado de servicios, por concepto de separación voluntaria, causa justificada o que sean separados de su empleo."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.3.2.1",
+    "NOMCOG": "PRIMAS DE VACACIONES Y DOMINICAL",
+    "CONCEPTOS": "Sueldo al personal que tenga derecho a vacaciones o al que preste sus servicios en día domingo."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.3.2.2",
+    "NOMCOG": "AGUINALDO O GRATIFICACIÓN DE FIN DE AÑO",
+    "CONCEPTOS": "Gratificación de fin de año del personal de la institucion."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.3.4.9",
+    "NOMCOG": "OTRAS COMPENSACIONES",
+    "CONCEPTOS": "Pagos fuera de nominas por dependencias con recursos alternos."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.4.1.1",
+    "NOMCOG": "APORTACIONES DE SEGURIDAD SOCIAL",
+    "CONCEPTOS": "Pago de cuotas patronales de seguridad social IMSS."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.4.2.1",
+    "NOMCOG": "APORTACIONES A FONDOS DE VIVIENDA",
+    "CONCEPTOS": "Pago de cuotas de INFONAVIT."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.4.3.1",
+    "NOMCOG": "APORTACIONES AL SISTEMA PARA EL RETIRO",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir los montos de las aportaciones de  Sistema de Ahorro para el retiro."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.4.4.1",
+    "NOMCOG": "APORTACIONES PARA SEGUROS",
+    "CONCEPTOS": "Primas de seguro de vida del personal al servicio."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.5.2.1",
+    "NOMCOG": "INDEMNIZACIONES POR SEPARACIÓN",
+    "CONCEPTOS": "Pago de liquidaciones, por separación de los trabajadores."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.5.3.1",
+    "NOMCOG": "PRESTACIONES Y HABERES DE RETIRO",
+    "CONCEPTOS": "Aportaciones para el fondo de pensión de parte de la institución.\nPago adicional al trabajador con concepto de retiro derivado de compromisos contractuales.\nPor el pago a los deudos del personal jubilado cuya prestación esta  establecida en el contrato colectivo de trabajo de la BUAP en el caso de fallecimiento.\n"
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.5.4.3",
+    "NOMCOG": "PRESTACIONES ESTABLECIDAS POR CONDICIONES GENERALES DE TRABAJO O CONTRATOS COLECTIVOS DE TRABAJO",
+    "CONCEPTOS": "Prestaciones establecidas contractualmente por la BUAP para su personal, como son canasta básica, atención médica y medicamentos, canastilla, premio de puntualidad, pago de guardería, anteojos y lentes de contacto, arreglos dentales y aparatos ortopédicos, pagos por defunción."
+  },
+  {
+    "CAPITULO": "1000",
+    "NOMBRE": "SERVICIOS PERSONALES",
+    "COG": "1.5.9.1",
+    "NOMCOG": "OTRAS PRESTACIONES SOCIALES",
+    "CONCEPTOS": "Otras prestaciones sociales establecidas por la BUAP, como son material y ropa de protección, uniformes, plan de asistencia final al trabajador, pagos por medicamentos, estímulo académico, estímulo administrativo, otras prestaciones no ligadas, ayuda material didáctico, incentivo a la permanencia, incentivo a la productividad, estímulo de retención a la permanencia, bono a la mejora de la salud, bono reconocimiento administrativo, reconocimiento a la calidad académica, ayuda desempeño académico y ayuda al desempeño administrativo."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.1.1.1",
+    "NOMCOG": "MATERIALES, ÚTILES Y EQUIPOS MENORES DE OFICINA",
+    "CONCEPTOS": "Compra de papelería en general, formas, libretas, carpetas y cualquier tipo de papel, artículos y útiles de escritorio como: lápices, plumas, broches, clips, quita grapas, cúter, tijeras, reglas, engrapadoras, perforadoras manuales; artículos de dibujo, de correspondencia y archivo. Artículos de envoltura, vasos y servilletas desechables, valijas, agendas, directorios telefónicos, cestos de basura, cordones para gafetes, entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.1.2.1",
+    "NOMCOG": "MATERIALES Y ÚTILES DE IMPRESIÓN Y REPRODUCCIÓN",
+    "CONCEPTOS": "Compra de fijadores, tintas, pastas para encuadernación, logotipos, acetatos, arillo para engargolar, papel, entintadores, rollos fotográficos, y demás materiales y útiles para el mismo fin."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.1.4.1",
+    "NOMCOG": "MATERIALES, ÚTILES Y EQUIPOS MENORES DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES",
+    "CONCEPTOS": "Compra de tóner, USB, CD, DVD, etc. así como los materiales para la limpieza y protección de los equipos, tales como: medios ópticos y magnéticos, adaptadores para equipo de cómputo, apuntadores, cables para la transmisión de datos, solventes, cintas, fundas y protectores, entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.1.5.1",
+    "NOMCOG": "MATERIAL IMPRESO E INFORMACIÓN DIGITAL",
+    "CONCEPTOS": "Compra de toda clase libros, revistas, periódicos, publicaciones, diarios oficiales, gacetas, material audiovisual, discos compactos, DVD, USB, con información digital distintos al software señalado en la partida 3.2.7.0., y en general todo tipo de material didáctico. Incluye la suscripción a revistas y publicaciones especializadas, folletos, catálogos, formatos y otros productos mediante cualquier técnica de impresión y sobre cualquier tipo de material, impresión sobre prendas de vestir, producción de formas continuas, impresión rápida, clichés, grabados, entre otros materiales y artículos propagandísticos."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.1.6.1",
+    "NOMCOG": "MATERIAL DE LIMPIEZA",
+    "CONCEPTOS": "Compra de escobas, jergas, detergentes, jabones, aceites limpiadores, abrillantadores, aromatizantes, bolsas para toda clase de basura y desperdicios, botes de plástico, recogedores, cubetas, esponjas, fibras, franelas, guantes de hule para aseo, trapeadores y otros productos similares. No pueden cargarse a esta partida refacciones y accesorios para equipo de limpieza como: aspiradoras, pulidoras, entre otros, por ser considerados activos fijos."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.1.7.1",
+    "NOMCOG": "MATERIALES Y ÚTILES DE ENSEÑANZA",
+    "CONCEPTOS": "Compra de tipo de material didáctico, así como materiales y suministros necesarios para las funciones educativas, de información, de enseñanza e investigación, que se requieran en la administración pública estatal, bibliotecas, planteles educativos, centros de investigación científica y tecnológica, tales como: borradores, cuerpos geométricos, gises, crayolas, plumones, hilos, juegos didácticos, libros de texto, y otros similares."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.2.1.3",
+    "NOMCOG": "PRODUCTOS ALIMENTICIOS PARA EL PERSONAL EN LAS INSTALACIONES DE LAS DEPENDENCIAS Y ENTIDADES",
+    "CONCEPTOS": "Compra de todo tipo de productos de alimentos y bebidas para las y los servidores: café, galletas, azucar, aguas, refrescos, té, etc. "
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.2.2.1",
+    "NOMCOG": "PRODUCTOS ALIMENTICIOS PARA ANIMALES",
+    "CONCEPTOS": "Adquisición de forrajes frescos y achicalados, alimentos preparados, entre otros, así como los demás gastos necesarios para la alimentación de los mismos."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.2.3.1",
+    "NOMCOG": "UTENCILIOS PARA EL SERVICIO DE ALIMENTACION",
+    "CONCEPTOS": "Compra de vajillas, cubiertos, baterías de cocina, licuadoras, tostadoras, cafeteras, básculas y demás electrodomésticos y bienes consumibles en operaciones a corto plazo."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.3.8.1",
+    "NOMCOG": "MERCANCÍAS ADQUIRIDAS PARA SU COMERCIALIZACIÓN",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir el costo de los artículos o bienes no duraderos que las Dependencias con recursos alternos adquieran para su comercialización. "
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.5.2.1",
+    "NOMCOG": "         FERTILIZANTES, PESTICIDAS Y OTROS AGROQUÍMICOS",
+    "CONCEPTOS": "Adquisición de fertilizantes, nitrogenados, fosfatados, biológicos procesados o de otro tipo, fungicidas, herbicidas, plaguicidas, raticidas, antigerminantes, reguladores del crecimiento de las plantas, nitrientes de suelos, abonos que se comercializan en estado natural."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.5.3.1",
+    "NOMCOG": "MEDICINAS Y PRODUCTOS FARMACÉUTICOS",
+    "CONCEPTOS": "Compra de medicinas y productos farmacéuticos de aplicación humana o animal, tales como: vacunas, drogas, medicinas de patente, medicamentos, sueros, plasma, oxígeno, botiquín de primeros auxilios, agua (destilada u oxigenada), alcohol, gel antibacterial, antiséptico, entre otros. Incluye productos fármaco-químicos como: alcaloides, antibióticos, hormonas, otros compuestos y principios activos. Pistola sanitizante atomizadora inhalámbrica."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.5.4.1",
+    "NOMCOG": "MATERIALES, ACCESORIOS Y SUMINISTROS MÉDICOS",
+    "CONCEPTOS": "Compra toda clase de materiales y suministros médicos que se requieran en hospitales, unidades sanitarias, consultorios, clínicas veterinarias, entre otras, tales como: jeringas, gasas, agujas, vendajes, material de sutura, espátulas, lentes, caretas médicas, cubrebocas, overoles, guantes de látex, lancetas, hojas de bisturí, termómetros, prótesis en general, entre otros. No procede cargar a esta partida equipos de cirugía, estetoscopios, estuches de disección, entre otros. "
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.5.5.1",
+    "NOMCOG": "MATERIALES, ACCESORIOS Y SUMINISTROS DE LABORATORIO",
+    "CONCEPTOS": "Adquisición de materiales y suministros utilizados en los laboratorios médicos, químicos, de investigación, fotográficos, cinematográficos, audio-visión, entre otros, tales como: cilindros graduados, matraces, probetas, mecheros, campanas de cultivo, cápsulas de porcelana, embudos de vidrio o de polietileno, tubos de cultivo, vidrio de cobalto, tanques de revelado, materiales para radiografía, electrocardiografía, medicina nuclear; artículos para el revelado e impresión de fotografías. Esta partida incluye animales para experimentación. No puede cargarse a esta partida aparatos de fotografía o cinematografía, CD’S y DVD'S grabados, herramientas, instrumentos de aparatos médicos, muebles, partes y refacciones de maquinaria y equipo. Tampoco el servicio de revelado e impresión de fotografía, cromatógrafo de gas."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.6.1.2",
+    "NOMCOG": "COMBUSTIBLES, LUBRICANTES Y ADITIVOS PARA VEHÍCULOS DESTINADOS A SERVICIOS ADMINISTRATIVOS",
+    "CONCEPTOS": "Compra de productos derivados del petróleo (gasolina, diésel, etc.), aceites y grasas lubricantes."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.7.1.1",
+    "NOMCOG": "VESTUARIO Y UNIFORMES",
+    "CONCEPTOS": "Adquisición de prendas de vestir: de punto, ropa de tela, cuero y piel. Fabricación de accesorios de vestir: camisas, pantalones, trajes. Calzado, uniformes y sus accesorios: insignias, distintivos, emblemas, bordados, banderas, banderines, uniformes y ropa de trabajo."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.7.2.1",
+    "NOMCOG": "PRENDAS DE SEGURIDAD Y PROTECCIÓN PERSONAL",
+    "CONCEPTOS": "Adquisición de guantes, botas de hule y asbesto, de tela o materiales especiales, cascos, lentes, cinturones, impermeables, zapatos con casquillo, paraguas."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.7.3.1",
+    "NOMCOG": "ARTÍCULOS DEPORTIVOS",
+    "CONCEPTOS": "Adquisición de Balones, redes, trofeos, medallas, raquetas, guantes, caretas deportivas, calzado deportivo, espadas de esgrima, peras y petos deportivos, pesas, entre otros, que las Dependencias y Entidades realizan en cumplimiento de su función pública."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.1.1",
+    "NOMCOG": "HERRAMIENTAS MENORES",
+    "CONCEPTOS": "Adquisición de desarmadores, martillos, llaves para tuercas, carretillas de mano, cuchillos, navajas, tijeras de mano, sierras de mano, alicates, hojas para seguetas, micrómetros, cintas métricas, pinzas, prensas, berbiquíes, garlopas, taladros, zapapicos, escaleras, detectores de metales manuales y demás bienes de consumo similares."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.2.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES DE EDIFICIOS",
+    "CONCEPTOS": "Adquisición de candados, cerraduras, pasadores, chapas, llaves, manijas para puertas, herrajes, bisagras, material eléctrico entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.3.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES DE MOBILIARIO Y EQUIPO DE ADMINISTRACIÓN, EDUCACIONAL Y RECREATIVO",
+    "CONCEPTOS": "Adquisición de refacciones y accesorios de escritorios, sillas, sillones, archiveros, máquinas de escribir, calculadoras, fotocopiadoras, entre otros. Tales como: bases de 5 puntas, rodajas (para sillas y muebles), estructuras de sillas, pistones, brazos asientos y respaldos, tornillos, soleras, regatones, estructuras de muebles, entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.4.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE CÓMPUTO Y TECNOLOGÍAS DE LA INFORMACIÓN",
+    "CONCEPTOS": "Adquisición de tarjetas electrónicas, unidades de discos internos (Duros, CD, DVD y Blu-ray), batería para laptop, puertos USB, puertos HDMI, circuitos, lectores de circuitos, bocinas, pantallas, mouse, teclados, porta teclados, cámaras, entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.5.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO",
+    "CONCEPTOS": "Asignaciones destinadas a la adquisición de refacciones y accesorios para todo tipo de aparatos e instrumentos médicos y de laboratorio.\n"
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.6.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE",
+    "CONCEPTOS": "Adquisición de llantas, suspensiones, sistemas de frenos, partes eléctricas, alternadores, distribuidores, partes de suspensión y dirección, marchas, embragues, retrovisores, limpiadores, volantes, tapetes, reflejantes, bocinas, autoestéreos, gatos hidráulicos o mecánicos, entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.8.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES DE MAQUINARIA Y OTROS EQUIPOS",
+    "CONCEPTOS": "Adquisición de piezas, partes, componentes, aditamentos, implementos y reemplazos de maquinaria pesada, agrícola y de construcción, entre otros."
+  },
+  {
+    "CAPITULO": "2000",
+    "NOMBRE": "MATERIALES Y SUMINISTROS",
+    "COG": "2.9.9.1",
+    "NOMCOG": "REFACCIONES Y ACCESORIOS MENORES OTROS BIENES MUEBLES",
+    "CONCEPTOS": "Adquisición de instrumental complementario y repuestos menores no considerados en las partidas anteriores."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.1.1",
+    "NOMCOG": "SERVICIO DE ENERGÍA ELÉCTRICA",
+    "CONCEPTOS": "Pago del  consumo de energía eléctrica."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.2.1",
+    "NOMCOG": "GAS",
+    "CONCEPTOS": "Pago del suministro de gas."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.3.1",
+    "NOMCOG": "SERVICIO DE AGUA",
+    "CONCEPTOS": "Consumo de agua potable."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.4.1",
+    "NOMCOG": "TELEFONÍA TRADICIONAL",
+    "CONCEPTOS": "Pago de llamadas, rentas en todas sus modalidades, su puesta a punto (gastos de instalación, contratación de nuevas líneas, así como, la reinstalación o el cambio de domicilio de las líneas existentes, aparato básico y cable), servicios digitales identificadores de llamadas, sígueme, etc., videollamada analógico, incluye tarjetas prepagadas, entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.5.1",
+    "NOMCOG": "TELEFONÍA CELULAR",
+    "CONCEPTOS": "Pago de renta y seguro de líneas celulares en todas sus modalidades, servicio de llamadas a celular, datos (servicio de mensajería dos vías), videollamada, roaming en todas sus modalidades, incluye tarjetas prepagadas, requerido en el desempeño de funciones oficiales, así como el pago por los gastos de contratación y cancelación de estos servicios."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.6.1",
+    "NOMCOG": "SERVICIOS DE RADIOLOCALIZACIÓN",
+    "CONCEPTOS": "Pago de servicios de radiolocalización, requerido en el desempeño de funciones oficiales, tales como GPS, entre otros"
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.6.2",
+    "NOMCOG": "SERVICIOS DE TELECOMUNICACIONES",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir el pago de servicios de la red de telecomunicaciones nacional e internacional, requeridos en el desempeño de funciones oficiales."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.7.1",
+    "NOMCOG": "SERVICIOS DE ACCESO DE INTERNET",
+    "CONCEPTOS": "Red Telefónica Conmutada; Red Digital RDSI o ADSL; por cable o vía satelital; Red inalámbrica, LMDS, PLC, WIMAX, entre otras. Así como el servicio de renta de transporte especializado de internet e internet móvil a través de la contratación de planes."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.7.2",
+    "NOMCOG": "SERVICIOS DE REDES Y PROCESAMIENTO DE INFORMACIÓN",
+    "CONCEPTOS": "Pago de servicios y busqueda en la red, provisión de servicios electrónicos, como: hospedaje y diseño de páginas web y correo. Incluye procesamiento electrónico de información, como captura y procesamiento de datos, preparación de reportes, impresión y información, lectura óptica; manejo y administración de otras aplicaciones en servidores dedicados o compartidos, como tiendas virtuales, microfilmación."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.8.1",
+    "NOMCOG": "SERVICIO POSTAL",
+    "CONCEPTOS": "Pagos por servicios postal nacional e internacional, así como los pagos de mensajería y paquetería."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.8.2",
+    "NOMCOG": "SERVICIO TELEGRÁFICO",
+    "CONCEPTOS": "Pago del servicio telegráfico, nacional e internacional."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.1.9.3",
+    "NOMCOG": "OTROS SERVICIOS INTEGRALES ",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir el pago de contrataciones de servicos básicos cuando no es posible su desagregación en las demás partidas de este concepto."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.1.1",
+    "NOMCOG": "ARRENDAMIENTO DE TERRENOS",
+    "CONCEPTOS": "Alquiler de Terreno."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.2.1",
+    "NOMCOG": "ARRENDAMIENTO DE EDIFICIOS",
+    "CONCEPTOS": "Renta de viviendas y edificaciones no residenciales, salones para convenciones, oficinas y locales comerciales, teatros, estadios, auditorios, bodegas, aulas de capacitación, entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.3.1",
+    "NOMCOG": "ARRENDAMIENTO DE MOBILIARIO",
+    "CONCEPTOS": "Pago alquiler de toda clase de mobiliario requerido en el cumplimiento de las funciones oficiales."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.3.2",
+    "NOMCOG": "ARRENDAMIENTO DE EQUIPO Y BIENES INFORMÁTICOS",
+    "CONCEPTOS": "Renta de equipo de cómputo, computadoras portátiles (laptops), impresoras, multifuncionales, fotocopiadoras, entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.3.3",
+    "NOMCOG": "ARRENDAMIENTO DE EQUIPO DE TELECOMUNICACIONES",
+    "CONCEPTOS": "Alquiler de toda clase de equipo de Telecomunicaciones."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.4.1",
+    "NOMCOG": "ARRENDAMIENTO DE EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO",
+    "CONCEPTOS": "Alquiler de toda clase de equipo e instrumental médico y de laboratorio."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.5.2",
+    "NOMCOG": "ARRENDAMIENTO DE VEHÍCULOS TERRESTRES,AÉREOS,MARÍTIMOS,LACUSTRES Y FLUVIALES PARA SERV. ADMIN.",
+    "CONCEPTOS": "Alquiler de toda clase de vehículos y equipo de transporte para servicios como: recolección y reparto de mensajería y traslado de materiales y suministros, entre otros, destinados al desempeño de actividades de apoyo administrativo que se requieran en las Dependencias."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.6.1",
+    "NOMCOG": "ARRENDAMIENTO DE MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir el alquiler de toda clase de maquinaria para la construcción, mineria y actividades forestales tales como: Cribadoras, demoledoras, excavadoras, mezcladoras, revolvedoras, perforadoras, barrenadoras, grúas para la construcción, sierras para corte de árboles y transportadores de bienes silvícolas, renta de maquinaria agricola,entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.7.1",
+    "NOMCOG": "ARRENDAMIENTO DE ACTIVOS INTANGIBLES",
+    "CONCEPTOS": "Pago por el uso de patentes y marcas, representaciones comerciales e industriales, regalías por derechos de autor, membresías, así como licencias de uso de programas de cómputo y su actualización."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.2.9.1",
+    "NOMCOG": "OTROS ARRENDAMIENTOS",
+    "CONCEPTOS": "Renta de sillas, mesas, utensilios de cocina, mantelería, lonas, carpas y similares para ocasiones especiales; instrumentos musicales; equipo médico como muletas y tanques de oxígeno; y, equipo y vehículos recreativos y deportivos."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.1.1",
+    "NOMCOG": "SERVICIOS RELACIONADOS CON PROCEDIMIENTOS JURISDICCIONALES",
+    "CONCEPTOS": "Costo de servicios periciales, profesionales o técnicos en alguna materia legales, notariales, servicios de contabilidad, auditoría, asesoría contable y fiscal."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.1.2",
+    "NOMCOG": "OTROS SERVICIOS PARA LA OPERACIÓN DE PROGRAMAS",
+    "CONCEPTOS": "Costo de servicios profesionales y técnicos, que se contraten con personas físicas y morales por concepto de asesoría y consulta, asistencia e intercambio, en cumplimiento de la función pública en materia jurídica, económica, contable, entre otras, para la pperación de programas de las dependencias, cuando los servicios requeridos no se encuentren incluidos en las demás partidas del concepto 3300 ejmplo: exámenes electrónicos Ceneval."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.3.1",
+    "NOMCOG": "SERVICIOS DE DESARROLLO DE APLICACIONES INFORMÁTICAS",
+    "CONCEPTOS": "Costo de los servicios profesionales que se contraten con personas físicas y morales para el desarrollo de sistemas, sitios o páginas de internet, procesamiento y elaboración de programas, ploteo por computadora, reproducción de información en medios magnéticos, mantenimiento de sitios y/o páginas web."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.3.3",
+    "NOMCOG": "SERVICIOS RELACIONADOS CON CERTIFICACIÓN DE PROCESOS",
+    "CONCEPTOS": "Servicios profesionales con personas físcas o morales por concepto de certificaciones de sistemas y procesos, entre otros, implementados por las dependencias, para mejorar el ejercicio de sus funciones o calidad en sus servicios."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.3.4",
+    "NOMCOG": "SERVICIOS DE MANTENIMIENTO DE APLICACIONES INFORMÁTICAS",
+    "CONCEPTOS": "Pago por mantenimiento de sitios y/o páginas web, así como el mantenimiento y soporte a los sistemas y programas ya existentes."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.4.1",
+    "NOMCOG": "CAPACITACIÓN INSTITUCIONAL",
+    "CONCEPTOS": "Pago de cursos de capacitación y/o actualización, para promover el mejoramiento, desarrollo y superación de las y los servidores."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.6.2",
+    "NOMCOG": "SERVICIOS DE APOYO ADMINISTRATIVO",
+    "CONCEPTOS": "Contratación de servicios de fotocopiado, y preparación de documentos; fax, engargolado, enmicado, encuadernación, corte de papel, recepción de correspondencia y otros fines. Incluye apoyo de servicios secretarial."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.6.3",
+    "NOMCOG": "SERVICIOS DE IMPRESIÓN DE DOCUMENTOS Y PAPELERIA OFICIAL",
+    "CONCEPTOS": "Gastos por servicios de impresión de documentos oficiales tales como titulos,  tramites oficiales."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.6.4",
+    "NOMCOG": "SERVICIOS DE IMPRESIÓN DE MATERIAL INFORMATIVO DERIVADO DE LA OPERACIÓN Y ADMINISTRACIÓN ",
+    "CONCEPTOS": "Costo de servicio de impresón como programas institucionales, manuales de organización, de procedimientos y de servicio al público, proyectos editorales (libros, revistas, gasetas) folletos, trípticos, dípticos, carteles, mantas, rótulos y demás servicios de impresión "
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.6.6",
+    "NOMCOG": "SERVICIOS DE DIGITALIZACIÓN",
+    "CONCEPTOS": "Pago de digitalización de documentos."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.8.1",
+    "NOMCOG": "SERVICIOS DE VIGILANCIA",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir las erogaciones por servicios de monitoreo de personas, objetos o procesos tanto de inmuebles de las Dependencias."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.9.1",
+    "NOMCOG": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS INTEGRALES",
+    "CONCEPTOS": "Gastos por Servicios profesionales personal docente."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.3.9.1",
+    "NOMCOG": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS INTEGRALES",
+    "CONCEPTOS": "Gastos por servicios profesionales de investigación de mercado, de fotografia, todo tipo de traducciones escritas o verbales, redacción o creeción de estilo, veterinarios, de valuación de metales piedras preciosas, obras de arte y antigüedades, así como otros servicios profesionales científicos y técnicos no clasificados en partidas anteriores, honorarios médicos."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.4.1.1",
+    "NOMCOG": "SERVICIOS FINANCIEROS Y BANCARIOS",
+    "CONCEPTOS": "Pago de comisiones, intereses, descuentos e intereses devengados."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.4.3.1",
+    "NOMCOG": "SERVICIOS DE RECAUDACIÓN, TRASLADO Y CUSTODIA DE VALORES",
+    "CONCEPTOS": "Pago de la guarda, custodia, traslado de valores y otros gastos inherentes a la recaudación."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.4.5.1",
+    "NOMCOG": "SEGUROS DE BIENES PATRIMONIALES",
+    "CONCEPTOS": "Primas de seguros de bienes patrimoniales."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.4.7.1",
+    "NOMCOG": "FLETES Y MANIOBRAS",
+    "CONCEPTOS": "Pagos por concepto de traslado y maniobras de toda clase de objetos."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.1.1",
+    "NOMCOG": "MANTENIMIENTO Y CONSERVACIÓN MENOR DE INMUEBLES PARA LA PRESTACIÓN DE SERVICIOS ADMINISTRATIVOS",
+    "CONCEPTOS": "Pago de gastos de conservación y mantenimiento menor de edificios, locales, terrenos, áreas verdes y caminos de acceso cuando se efectuen por cuenta de terceros, incluido el pago de deducibles de seguros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.2.1",
+    "NOMCOG": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE MOBILIARIO Y EQUIPO DE ADMÓN., EDUCACIONAL Y RECREATIVO",
+    "CONCEPTOS": "Servicios de mantenimiento y conservación de toda clase de mobiliario y equipo, escritorios, sillas, sillones, archiveros, máquinas de escribir, calculadoras, fotocopiadoras, equipo de sonido, de video, cámaras fotográficas, proyectores, pantallas, pizarrones, mesas, aparatos deportivos, entre otros. Incluye el pago de deducibles de seguros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.3.1",
+    "NOMCOG": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE CÓMPUTO Y TECNOLOGÍAS DE LA INFORMACIÓN",
+    "CONCEPTOS": "Gastos por servicios que se contraten con terceros para la instalación, reparación y mantenimiento de computadoras, impresoras, dispositivos de seguridad, reguladores, fuentes de potencia ininterrumpida, servidores de información, entre otros, así como el mantenimiento en general. Incluye el pago de deducibles de seguros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.4.1",
+    "NOMCOG": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO",
+    "CONCEPTOS": "Instalación, reparación y mantenimiento de equipo médico y de laboratorio como estetoscopios, máscaras para oxígeno, pinzas, separadores, instrumental de cirugía mayor o menor, estuche de diagnóstico, estuche de disección, linterna (tipo pluma), y en general todo tipo de instrumentos médicos necesarios para operaciones quirúrgicas, dentales y oftalmológicas, entre otros. Incluye el instrumental utilizado en los laboratorios de investigación científica e instrumental de medición."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.5.1",
+    "NOMCOG": "REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE TRANSPORTE",
+    "CONCEPTOS": "Reparación, mantenimiento y conservación del equipo de transporte terrestre e instalación de equipos, duplicados de llaves, adaptación de accesorios en los mismos y equipo para la conversión de vehículos."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.7.1",
+    "NOMCOG": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE MAQUINARIA Y OTROS EQUIPOS",
+    "CONCEPTOS": "Mantenimiento de: vehículos, embarcaciones, aeronaves, tractores, palas mecánicas, dragas, fertilizadoras, equipo especializado instalado en los inmuebles (aire acondicionado de cualquier tipo, contraincendios, de calefacción, de refrigeración, calderas, plantas de energía eléctrica, elevadores, circuito cerrado, etc.) incluye la recarga de extinguidores."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.8.1",
+    "NOMCOG": "SERVICIOS DE LIMPIEZA Y MANEJO DE DESECHOS",
+    "CONCEPTOS": "Servicio de lavandería, limpieza, desinfección e higiene en los bienes muebles e inmuebles propiedad, los servicios de recolección, traslado y tratamiento final de desechos tóxicos; recolección de desechos, escombro y maleza, operación de sitios para enterrar desechos (confinamiento), la recuperación y clasificación de materiales reciclables, trituración de diversos materiales y rehabilitación de limpieza de zonas contaminadas."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.5.9.1",
+    "NOMCOG": "SERVICIOS DE JARDINERÍA Y FUMIGACIÓN",
+    "CONCEPTOS": "Pago de gastos por control y exterminación de plagas, instalación y mantenimiento de áreas verdes como la plantación, fertilización y poda de árboles, plantas y hierbas, en los bienes muebles e inmuebles."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.6.1.1",
+    "NOMCOG": "DIFUSIÓN POR RADIO, TELEVISIÓN Y OTROS MEDIOS DE MENSAJES SOBRE PROGRAM. Y ACTIVID. GUBERNAMENTALES",
+    "CONCEPTOS": "Publicación y difusión masiva de las mismas a un público objetivo determinado a través de televisión abierta y restringida, radio, cine, prensa, encartes, espectaculares, mobiliario urbano, tarjetas telefónicas, Internet, medios electrónicos e impresos internacionales, folletos, trípticos, dípticos, carteles, mantas, rótulos, producto integrado y otros medios complementarios."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.6.6.1",
+    "NOMCOG": "SERVICIO DE CREACIÓN Y DIFUSIÓN DE CONTENIDO EXCLUSIVAMENTE A TRAVÉS DE INTERNET",
+    "CONCEPTOS": "Difusión y transmisión de contenido de interés general o específico a través de internet exclusivamente."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.6.9.1",
+    "NOMCOG": "OTROS SERVICIOS DE INFORMACIÓN",
+    "CONCEPTOS": "Costo de la contratación de servicios profesionales con personas físicas o morales, por concepto de monitoreo de opinión con la población en general y/o de información en medios masivos de comunicación."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.1.1",
+    "NOMCOG": "PASAJES AÉREOS NACIONALES",
+    "CONCEPTOS": "Gastos por concepto de traslado Aéreo Nacional de las y los servidores."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.1.2",
+    "NOMCOG": "PASAJES AÉREOS INTERNACIONALES",
+    "CONCEPTOS": "Gastos por concepto de traslado Aéreo Internacional de las y los servidores."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.2.1",
+    "NOMCOG": "PASAJES TERRESTRES NACIONALES",
+    "CONCEPTOS": "Gastos por concepto de traslado terrestre Nacional de las y los servidores. "
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.2.2",
+    "NOMCOG": "PASAJES TERRESTRES INTERNACIONALES",
+    "CONCEPTOS": "Gastos por concepto de traslado terrestre Internacional de las y los servidores."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.5.1",
+    "NOMCOG": "VIÁTICOS EN EL PAÍS",
+    "CONCEPTOS": "Gastos por concepto de alimentación, hospedaje y arrendamiento de vehículos en el desempeño de comisiones temporales dentro del país, derivado de la realización de labores en campo o de supervisión e inspección, en lugares distintos a los de su adscripción."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.6.1",
+    "NOMCOG": "VIÁTICOS EN EL EXTRANJERO",
+    "CONCEPTOS": "Gastos por concepto de alimentación, hospedaje y arrendamiento de vehículos en el desempeño de comisiones temporales fuera del país, derivado de la realización de labores en campo."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.7.9.1",
+    "NOMCOG": "OTROS SERVICIOS DE TRASLADO Y HOSPEDAJE",
+    "CONCEPTOS": "Pago de estacionamiento, pensión de vehículos, seguros de viajero, traslado, alimentación y hospedaje, alquiler de vehículos, choferes, guías y combustibles a personal externo que coadyuva con dependencias en el cumplimiento de programas, como traductores, reporteros entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.8.1.1",
+    "NOMCOG": "GASTOS DE CEREMONIAL",
+    "CONCEPTOS": "Servicios integrales que se contraten con motivo de la realización de actos oficiales y protocolarios, organización y ejecución de recepciones, adornos, escenografía, entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.8.2.1",
+    "NOMCOG": "GASTOS DE ORDEN SOCIAL",
+    "CONCEPTOS": "Realización de ceremonias patrióticas y oficiales, desfiles, la adquisición de presentes y ofrendas florales y luctuosas, entre otros."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.8.2.2",
+    "NOMCOG": "GASTOS DE ORDEN CULTURAL",
+    "CONCEPTOS": "Servicios integrales que se contraten con personas físicas y morales para actos de orden cultural, celebración de audiciones, conciertos, obras de teatro, festivales, ferias tecnólogicas y culturales, encuentros académicos, concursos culturales, siempre y cuando por tratarse de servicios integrales no puedan desagregarse, adaptaciones y decoraciones de instalaciones, alquileres de local y equipo, gastos de invitaciones, honorarios y ratificaciones, contratación de grupos musicales, refrigerios y alimentación durante la realización de los espectáculos, así como los gastos generados por los reconocimientos otorgados durante el evento, entre otros gastos necesarios para la realización de los mismos."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.8.3.1",
+    "NOMCOG": "CONGRESOS Y CONVENCIONES",
+    "CONCEPTOS": "Celebración de congresos, convenciones, seminarios, simposios, asambleas, reuniones de trabajo con externos del servicio público del Gobierno del Estado y cualquier otro tipo de foro análogo o de características similares, que se organicen en cumplimiento de lo previsto en los programas."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.8.3.1",
+    "NOMCOG": "GASTOS DE REPRESENTACION",
+    "CONCEPTOS": "Gastos autorizados a las y los servidores públicos de mandos medios superiores por concepto de atención a actividades institucionales originadas por el desempeño de las funciones encomendadas para la consecución de los objetivos de las dependencias."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.9.1.1",
+    "NOMCOG": "SERVICIOS FUNERARIOS Y DE CEMENTERIOS",
+    "CONCEPTOS": "Traslado de cuerpos, velación, apoyo para trámites legales, cremación, embalsamamiento y ataúdes. "
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.9.2.1",
+    "NOMCOG": "OTROS IMPUESTOS Y DERECHOS",
+    "CONCEPTOS": "Gastos de escrituración, legalización de exhortos notariales, de registro público de la propiedad, canje de placas de vehículos oficiales, peaje, diligencias judiciales;  de verificación, certificación, predial y demás impuestos y derechos conforme a las disposiciones aplicables."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.9.2.2",
+    "NOMCOG": "IMPUESTOS Y DERECHOS DE EXPORTACIÓN",
+    "CONCEPTOS": "Impuestos y/o derechos causados por el envío de productos y servicios al extranjero."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.9.3.1",
+    "NOMCOG": "IMPUESTOS Y DERECHOS DE IMPORTACIÓN",
+    "CONCEPTOS": "Asignaciones destinadas a cubrir los impuestos y/o derechos que cause la adquisición de toda clase de bienes o servicios en el extranjero."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.9.5.1",
+    "NOMCOG": "PENAS, MULTAS, ACCESORIOS Y ACTUALIZACIONES",
+    "CONCEPTOS": "Multas, actualizaciones, intereses y demás accesorios por dichos pagos. Incluye los gastos financieros por pago extemporáneo de estimaciones y de ajuste de costos de obra pública, así como los gastos no recuperables derivados de la recisión de contratos de adquisiciones."
+  },
+  {
+    "CAPITULO": "3000",
+    "NOMBRE": "SERVICIOS GENERALES",
+    "COG": "3.9.9.3",
+    "NOMCOG": "OTROS SERVICIOS GENERALES",
+    "CONCEPTOS": "Cuotas de afiliación e inscripción a organismos como el AMERIAF, AMOCVIES, organismos e Instituciones  oficiales.\nCuentas por cobrar que por algún problema no se realizó su reintegro o comprobación.\nConcursos internos de las depencias: ofrendas, deportivas, etc.\nEstudios o proyectos que alguna dependencia realice con alguna empresa o dependencia oficial.\nConvenios que realizan la dependencias con otras instituciones (recursos alternos).\nRegistro del reconocimeno de la participación de las empresas.\nOperaciones entre dependencias de la institución.\nServicio de laboratorios externos.\nGastos menores de acuerdo al reglamento de ingresos y egresos."
+  },
+  {
+    "CAPITULO": "4000",
+    "NOMBRE": "TRANSFERENCIAS Y SUBSIDIOS",
+    "COG": "4.4.2.1",
+    "NOMCOG": "AYUDAS PARA CAPACITACIÓN Y BECAS",
+    "CONCEPTOS": "Becas otorgadas a los profesores en el país.\nBecas otorgadas a los profesores en el extranjero. \nBecas otorgadas a  investigadores del sistema nacional de investigación (SNI).\nBecas para estudiantes en el país, monitores.\nBecas para estudiantes en el extranjero.\nBecas alimenticias a estudiantes."
+  },
+  {
+    "CAPITULO": "4000",
+    "NOMBRE": "TRANSFERENCIAS Y SUBSIDIOS",
+    "COG": "4.5.1.1",
+    "NOMCOG": "PENSIONES",
+    "CONCEPTOS": "Por las erogaciones que los entes públicos realizan en beneficio de sus empleados por jubilaciones, haberes de retiro, pensiones, retiro voluntario entre otros. "
+  }
+]
