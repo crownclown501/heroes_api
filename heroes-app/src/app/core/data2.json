@@ -1,542 +1,135 @@
 [
-  {
-    "COG": "6.2.2.3",
-    "DEFINIDO": "EDIFICACIONES EDUCATIVAS Y CULTURALES"
-  },
-  {
-    "COG": "5.1.1.1",
-    "DEFINIDO": "MUEBLES DE OFICINA Y ESTANTERÍA"
-  },
-  {
-    "COG": "5.1.2.1",
-    "DEFINIDO": "MUEBLES, EXCEPTO DE OFICINA Y ESTANTERÍA"
-  },
-  {
-    "COG": "5.1.5.1",
-    "DEFINIDO": "EQUIPO DE CÓMPUTO Y DE TECNOLOGÍA DE LA INFORMACIÓN"
-  },
-  {
-    "COG": "5.1.9.1",
-    "DEFINIDO": "OTROS MOBILIARIOS Y EQUIPOS DE ADMINISTRACIÓN"
-  },
-  {
-    "COG": "5.2.1.1",
-    "DEFINIDO": "EQUIPOS Y APARATOS AUDIOVISUALES"
-  },
-  {
-    "COG": "5.2.2.1",
-    "DEFINIDO": "APARATOS DEPORTIVOS"
-  },
-  {
-    "COG": "5.2.3.1",
-    "DEFINIDO": "CÁMARAS FOTOGRÁFICAS Y DE VIDEO"
-  },
-  {
-    "COG": "5.2.9.1",
-    "DEFINIDO": "OTRO MOBILIARIO Y EQUIPO EDUCACIONAL Y RECREATIVO"
-  },
-  {
-    "COG": "5.3.1.1",
-    "DEFINIDO": "EQUIPO MÉDICO Y DE LABORATORIO"
-  },
-  {
-    "COG": "5.3.2.1",
-    "DEFINIDO": "INSTRUMENTAL MÉDICO Y DE LABORATORIO"
-  },
-  {
-    "COG": "5.4.1.2",
-    "DEFINIDO": "VEHÍCULOS Y EQUIPO TERRESTRE, DESTINADOS A SERVICIOS ADMINISTRATIVOS"
-  },
-  {
-    "COG": "5.6.1.1",
-    "DEFINIDO": "MAQUINARIA Y EQUIPO AGROPECUARIO"
-  },
-  {
-    "COG": "5.6.4.1",
-    "DEFINIDO": "SISTEMAS DE AIRE ACONDICIONADO, CALEFACCIÓN Y DE REFRIGERACIÓN INDUSTRIAL Y COMERCIAL"
-  },
-  {
-    "COG": "5.6.5.1",
-    "DEFINIDO": "EQUIPOS DE COMUNICACIÓN Y TELECOMUNICACIÓN"
-  },
-  {
-    "COG": "5.6.6.1",
-    "DEFINIDO": "EQUIPO DE GENERACIÓN ELÉCTRICA, APARATOS Y ACCESORIOS ELÉCTRICOS"
-  },
-  {
-    "COG": "5.6.9.5",
-    "DEFINIDO": "MAQUINARIA Y EQUIPO DIVERSO"
-  },
-  {
-    "COG": "5.7.1.1",
-    "DEFINIDO": "BOVINOS"
-  },
-  {
-    "COG": "5.7.2.1",
-    "DEFINIDO": "PORCINOS"
-  },
-  {
-    "COG": "5.7.3.1",
-    "DEFINIDO": "AVES"
-  },
-  {
-    "COG": "5.7.4.1",
-    "DEFINIDO": "OVINOS Y CAPRINOS"
-  },
-  {
-    "COG": "5.7.5.1",
-    "DEFINIDO": "PECES Y ACUICULTURA"
-  },
-  {
-    "COG": "5.7.6.1",
-    "DEFINIDO": "EQUINOS"
-  },
-  {
-    "COG": "5.7.8.1",
-    "DEFINIDO": "ÁRBOLES Y PLANTAS"
-  },
-  {
-    "COG": "1.1.3.1",
-    "DEFINIDO": "SUELDO BASE AL PERSONAL DE BASE"
-  },
-  {
-    "COG": "1.1.3.2",
-    "DEFINIDO": "SUELDO BASE AL PERSONAL DE CONFIANZA"
-  },
-  {
-    "COG": "1.3.1.1",
-    "DEFINIDO": "PRIMA QUINQUENAL POR AÑOS DE SERVICIOS EFECTIVOS PRESTADOS"
-  },
-  {
-    "COG": "1.3.1.2",
-    "DEFINIDO": "PRIMA DE ANTIGÜEDAD"
-  },
-  {
-    "COG": "1.3.2.1",
-    "DEFINIDO": "PRIMAS DE VACACIONES Y DOMINICAL"
-  },
-  {
-    "COG": "1.3.2.2",
-    "DEFINIDO": "AGUINALDO O GRATIFICACIÓN DE FIN DE AÑO"
-  },
-  {
-    "COG": "1.3.4.9",
-    "DEFINIDO": "OTRAS COMPENSACIONES"
-  },
-  {
-    "COG": "1.4.1.1",
-    "DEFINIDO": "APORTACIONES DE SEGURIDAD SOCIAL"
-  },
-  {
-    "COG": "1.4.2.1",
-    "DEFINIDO": "APORTACIONES A FONDOS DE VIVIENDA"
-  },
-  {
-    "COG": "1.4.3.1",
-    "DEFINIDO": "APORTACIONES AL SISTEMA PARA EL RETIRO"
-  },
-  {
-    "COG": "1.4.4.1",
-    "DEFINIDO": "APORTACIONES PARA SEGUROS"
-  },
-  {
-    "COG": "1.5.2.1",
-    "DEFINIDO": "INDEMNIZACIONES POR SEPARACIÓN"
-  },
-  {
-    "COG": "1.5.3.1",
-    "DEFINIDO": "PRESTACIONES Y HABERES DE RETIRO"
-  },
-  {
-    "COG": "1.5.4.3",
-    "DEFINIDO": "PRESTACIONES ESTABLECIDAS POR CONDICIONES GENERALES DE TRABAJO O CONTRATOS COLECTIVOS DE TRABAJO"
-  },
-  {
-    "COG": "1.5.9.1",
-    "DEFINIDO": "OTRAS PRESTACIONES SOCIALES"
-  },
-  {
-    "COG": "2.1.1.1",
-    "DEFINIDO": "MATERIALES, ÚTILES Y EQUIPOS MENORES DE OFICINA"
-  },
-  {
-    "COG": "2.1.2.1",
-    "DEFINIDO": "MATERIALES Y ÚTILES DE IMPRESIÓN Y REPRODUCCIÓN"
-  },
-  {
-    "COG": "2.1.4.1",
-    "DEFINIDO": "MATERIALES, ÚTILES Y EQUIPOS MENORES DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES"
-  },
-  {
-    "COG": "2.1.5.1",
-    "DEFINIDO": "MATERIAL IMPRESO E INFORMACIÓN DIGITAL"
-  },
-  {
-    "COG": "2.1.6.1",
-    "DEFINIDO": "MATERIAL DE LIMPIEZA"
-  },
-  {
-    "COG": "2.1.7.1",
-    "DEFINIDO": "MATERIALES Y ÚTILES DE ENSEÑANZA"
-  },
-  {
-    "COG": "2.2.1.3",
-    "DEFINIDO": "PRODUCTOS ALIMENTICIOS PARA EL PERSONAL EN LAS INSTALACIONES DE LAS DEPENDENCIAS Y ENTIDADES"
-  },
-  {
-    "COG": "2.2.2.1",
-    "DEFINIDO": "PRODUCTOS ALIMENTICIOS PARA ANIMALES"
-  },
-  {
-    "COG": "2.2.3.1",
-    "DEFINIDO": "UTENCILIOS PARA EL SERVICIO DE ALIMENTACION"
-  },
-  {
-    "COG": "2.3.8.1",
-    "DEFINIDO": "MERCANCÍAS ADQUIRIDAS PARA SU COMERCIALIZACIÓN"
-  },
-  {
-    "COG": "2.5.2.1",
-    "DEFINIDO": "         FERTILIZANTES, PESTICIDAS Y OTROS AGROQUÍMICOS"
-  },
-  {
-    "COG": "2.5.3.1",
-    "DEFINIDO": "MEDICINAS Y PRODUCTOS FARMACÉUTICOS"
-  },
-  {
-    "COG": "2.5.4.1",
-    "DEFINIDO": "MATERIALES, ACCESORIOS Y SUMINISTROS MÉDICOS"
-  },
-  {
-    "COG": "2.5.5.1",
-    "DEFINIDO": "MATERIALES, ACCESORIOS Y SUMINISTROS DE LABORATORIO"
-  },
-  {
-    "COG": "2.6.1.2",
-    "DEFINIDO": "COMBUSTIBLES, LUBRICANTES Y ADITIVOS PARA VEHÍCULOS DESTINADOS A SERVICIOS ADMINISTRATIVOS"
-  },
-  {
-    "COG": "2.7.1.1",
-    "DEFINIDO": "VESTUARIO Y UNIFORMES"
-  },
-  {
-    "COG": "2.7.2.1",
-    "DEFINIDO": "PRENDAS DE SEGURIDAD Y PROTECCIÓN PERSONAL"
-  },
-  {
-    "COG": "2.7.3.1",
-    "DEFINIDO": "ARTÍCULOS DEPORTIVOS"
-  },
-  {
-    "COG": "2.9.1.1",
-    "DEFINIDO": "HERRAMIENTAS MENORES"
-  },
-  {
-    "COG": "2.9.2.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES DE EDIFICIOS"
-  },
-  {
-    "COG": "2.9.3.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES DE MOBILIARIO Y EQUIPO DE ADMINISTRACIÓN, EDUCACIONAL Y RECREATIVO"
-  },
-  {
-    "COG": "2.9.4.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE CÓMPUTO Y TECNOLOGÍAS DE LA INFORMACIÓN"
-  },
-  {
-    "COG": "2.9.5.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO"
-  },
-  {
-    "COG": "2.9.6.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES DE EQUIPO DE TRANSPORTE"
-  },
-  {
-    "COG": "2.9.8.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES DE MAQUINARIA Y OTROS EQUIPOS"
-  },
-  {
-    "COG": "2.9.9.1",
-    "DEFINIDO": "REFACCIONES Y ACCESORIOS MENORES OTROS BIENES MUEBLES"
-  },
-  {
-    "COG": "3.1.1.1",
-    "DEFINIDO": "SERVICIO DE ENERGÍA ELÉCTRICA"
-  },
-  {
-    "COG": "3.1.2.1",
-    "DEFINIDO": "GAS"
-  },
-  {
-    "COG": "3.1.3.1",
-    "DEFINIDO": "SERVICIO DE AGUA"
-  },
-  {
-    "COG": "3.1.4.1",
-    "DEFINIDO": "TELEFONÍA TRADICIONAL"
-  },
-  {
-    "COG": "3.1.5.1",
-    "DEFINIDO": "TELEFONÍA CELULAR"
-  },
-  {
-    "COG": "3.1.6.1",
-    "DEFINIDO": "SERVICIOS DE RADIOLOCALIZACIÓN"
-  },
-  {
-    "COG": "3.1.6.2",
-    "DEFINIDO": "SERVICIOS DE TELECOMUNICACIONES"
-  },
-  {
-    "COG": "3.1.7.1",
-    "DEFINIDO": "SERVICIOS DE ACCESO DE INTERNET"
-  },
-  {
-    "COG": "3.1.7.2",
-    "DEFINIDO": "SERVICIOS DE REDES Y PROCESAMIENTO DE INFORMACIÓN"
-  },
-  {
-    "COG": "3.1.8.1",
-    "DEFINIDO": "SERVICIO POSTAL"
-  },
-  {
-    "COG": "3.1.8.2",
-    "DEFINIDO": "SERVICIO TELEGRÁFICO"
-  },
-  {
-    "COG": "3.1.9.3",
-    "DEFINIDO": "OTROS SERVICIOS INTEGRALES "
-  },
-  {
-    "COG": "3.2.1.1",
-    "DEFINIDO": "ARRENDAMIENTO DE TERRENOS"
-  },
-  {
-    "COG": "3.2.2.1",
-    "DEFINIDO": "ARRENDAMIENTO DE EDIFICIOS"
-  },
-  {
-    "COG": "3.2.3.1",
-    "DEFINIDO": "ARRENDAMIENTO DE MOBILIARIO"
-  },
-  {
-    "COG": "3.2.3.2",
-    "DEFINIDO": "ARRENDAMIENTO DE EQUIPO Y BIENES INFORMÁTICOS"
-  },
-  {
-    "COG": "3.2.3.3",
-    "DEFINIDO": "ARRENDAMIENTO DE EQUIPO DE TELECOMUNICACIONES"
-  },
-  {
-    "COG": "3.2.4.1",
-    "DEFINIDO": "ARRENDAMIENTO DE EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO"
-  },
-  {
-    "COG": "3.2.5.2",
-    "DEFINIDO": "ARRENDAMIENTO DE VEHÍCULOS TERRESTRES,AÉREOS,MARÍTIMOS,LACUSTRES Y FLUVIALES PARA SERV. ADMIN."
-  },
-  {
-    "COG": "3.2.6.1",
-    "DEFINIDO": "ARRENDAMIENTO DE MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS"
-  },
-  {
-    "COG": "3.2.7.1",
-    "DEFINIDO": "ARRENDAMIENTO DE ACTIVOS INTANGIBLES"
-  },
-  {
-    "COG": "3.2.9.1",
-    "DEFINIDO": "OTROS ARRENDAMIENTOS"
-  },
-  {
-    "COG": "3.3.1.1",
-    "DEFINIDO": "SERVICIOS RELACIONADOS CON PROCEDIMIENTOS JURISDICCIONALES"
-  },
-  {
-    "COG": "3.3.1.2",
-    "DEFINIDO": "OTROS SERVICIOS PARA LA OPERACIÓN DE PROGRAMAS"
-  },
-  {
-    "COG": "3.3.3.1",
-    "DEFINIDO": "SERVICIOS DE DESARROLLO DE APLICACIONES INFORMÁTICAS"
-  },
-  {
-    "COG": "3.3.3.3",
-    "DEFINIDO": "SERVICIOS RELACIONADOS CON CERTIFICACIÓN DE PROCESOS"
-  },
-  {
-    "COG": "3.3.3.4",
-    "DEFINIDO": "SERVICIOS DE MANTENIMIENTO DE APLICACIONES INFORMÁTICAS"
-  },
-  {
-    "COG": "3.3.4.1",
-    "DEFINIDO": "CAPACITACIÓN INSTITUCIONAL"
-  },
-  {
-    "COG": "3.3.6.2",
-    "DEFINIDO": "SERVICIOS DE APOYO ADMINISTRATIVO"
-  },
-  {
-    "COG": "3.3.6.3",
-    "DEFINIDO": "SERVICIOS DE IMPRESIÓN DE DOCUMENTOS Y PAPELERIA OFICIAL"
-  },
-  {
-    "COG": "3.3.6.4",
-    "DEFINIDO": "SERVICIOS DE IMPRESIÓN DE MATERIAL INFORMATIVO DERIVADO DE LA OPERACIÓN Y ADMINISTRACIÓN "
-  },
-  {
-    "COG": "3.3.6.6",
-    "DEFINIDO": "SERVICIOS DE DIGITALIZACIÓN"
-  },
-  {
-    "COG": "3.3.8.1",
-    "DEFINIDO": "SERVICIOS DE VIGILANCIA"
-  },
-  {
-    "COG": "3.3.9.1",
-    "DEFINIDO": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS INTEGRALES"
-  },
-  {
-    "COG": "3.3.9.1",
-    "DEFINIDO": "SERVICIOS PROFESIONALES, CIENTÍFICOS Y TÉCNICOS INTEGRALES"
-  },
-  {
-    "COG": "3.4.1.1",
-    "DEFINIDO": "SERVICIOS FINANCIEROS Y BANCARIOS"
-  },
-  {
-    "COG": "3.4.3.1",
-    "DEFINIDO": "SERVICIOS DE RECAUDACIÓN, TRASLADO Y CUSTODIA DE VALORES"
-  },
-  {
-    "COG": "3.4.5.1",
-    "DEFINIDO": "SEGUROS DE BIENES PATRIMONIALES"
-  },
-  {
-    "COG": "3.4.7.1",
-    "DEFINIDO": "FLETES Y MANIOBRAS"
-  },
-  {
-    "COG": "3.5.1.1",
-    "DEFINIDO": "MANTENIMIENTO Y CONSERVACIÓN MENOR DE INMUEBLES PARA LA PRESTACIÓN DE SERVICIOS ADMINISTRATIVOS"
-  },
-  {
-    "COG": "3.5.2.1",
-    "DEFINIDO": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE MOBILIARIO Y EQUIPO DE ADMÓN., EDUCACIONAL Y RECREATIVO"
-  },
-  {
-    "COG": "3.5.3.1",
-    "DEFINIDO": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE CÓMPUTO Y TECNOLOGÍAS DE LA INFORMACIÓN"
-  },
-  {
-    "COG": "3.5.4.1",
-    "DEFINIDO": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE EQUIPO E INSTRUMENTAL MÉDICO Y DE LABORATORIO"
-  },
-  {
-    "COG": "3.5.5.1",
-    "DEFINIDO": "REPARACIÓN Y MANTENIMIENTO DE EQUIPO DE TRANSPORTE"
-  },
-  {
-    "COG": "3.5.7.1",
-    "DEFINIDO": "INSTALACIÓN, REPARACIÓN Y MANTENIMIENTO DE MAQUINARIA Y OTROS EQUIPOS"
-  },
-  {
-    "COG": "3.5.8.1",
-    "DEFINIDO": "SERVICIOS DE LIMPIEZA Y MANEJO DE DESECHOS"
-  },
-  {
-    "COG": "3.5.9.1",
-    "DEFINIDO": "SERVICIOS DE JARDINERÍA Y FUMIGACIÓN"
-  },
-  {
-    "COG": "3.6.1.1",
-    "DEFINIDO": "DIFUSIÓN POR RADIO, TELEVISIÓN Y OTROS MEDIOS DE MENSAJES SOBRE PROGRAM. Y ACTIVID. GUBERNAMENTALES"
-  },
-  {
-    "COG": "3.6.6.1",
-    "DEFINIDO": "SERVICIO DE CREACIÓN Y DIFUSIÓN DE CONTENIDO EXCLUSIVAMENTE A TRAVÉS DE INTERNET"
-  },
-  {
-    "COG": "3.6.9.1",
-    "DEFINIDO": "OTROS SERVICIOS DE INFORMACIÓN"
-  },
-  {
-    "COG": "3.7.1.1",
-    "DEFINIDO": "PASAJES AÉREOS NACIONALES"
-  },
-  {
-    "COG": "3.7.1.2",
-    "DEFINIDO": "PASAJES AÉREOS INTERNACIONALES"
-  },
-  {
-    "COG": "3.7.2.1",
-    "DEFINIDO": "PASAJES TERRESTRES NACIONALES"
-  },
-  {
-    "COG": "3.7.2.2",
-    "DEFINIDO": "PASAJES TERRESTRES INTERNACIONALES"
-  },
-  {
-    "COG": "3.7.5.1",
-    "DEFINIDO": "VIÁTICOS EN EL PAÍS"
-  },
-  {
-    "COG": "3.7.6.1",
-    "DEFINIDO": "VIÁTICOS EN EL EXTRANJERO"
-  },
-  {
-    "COG": "3.7.9.1",
-    "DEFINIDO": "OTROS SERVICIOS DE TRASLADO Y HOSPEDAJE"
-  },
-  {
-    "COG": "3.8.1.1",
-    "DEFINIDO": "GASTOS DE CEREMONIAL"
-  },
-  {
-    "COG": "3.8.2.1",
-    "DEFINIDO": "GASTOS DE ORDEN SOCIAL"
-  },
-  {
-    "COG": "3.8.2.2",
-    "DEFINIDO": "GASTOS DE ORDEN CULTURAL"
-  },
-  {
-    "COG": "3.8.3.1",
-    "DEFINIDO": "CONGRESOS Y CONVENCIONES"
-  },
-  {
-    "COG": "3.8.3.1",
-    "DEFINIDO": "GASTOS DE REPRESENTACION"
-  },
-  {
-    "COG": "3.9.1.1",
-    "DEFINIDO": "SERVICIOS FUNERARIOS Y DE CEMENTERIOS"
-  },
-  {
-    "COG": "3.9.2.1",
-    "DEFINIDO": "OTROS IMPUESTOS Y DERECHOS"
-  },
-  {
-    "COG": "3.9.2.2",
-    "DEFINIDO": "IMPUESTOS Y DERECHOS DE EXPORTACIÓN"
-  },
-  {
-    "COG": "3.9.3.1",
-    "DEFINIDO": "IMPUESTOS Y DERECHOS DE IMPORTACIÓN"
-  },
-  {
-    "COG": "3.9.5.1",
-    "DEFINIDO": "PENAS, MULTAS, ACCESORIOS Y ACTUALIZACIONES"
-  },
-  {
-    "COG": "3.9.9.3",
-    "DEFINIDO": "OTROS SERVICIOS GENERALES"
-  },
-  {
-    "COG": "4.4.2.1",
-    "DEFINIDO": "AYUDAS PARA CAPACITACIÓN Y BECAS"
-  },
-  {
-    "COG": "4.5.1.1",
-    "DEFINIDO": "PENSIONES"
-  }
+  { "COG": "6.2.2.3", "DEFINIDO": "Edificación no habitacional" },
+  { "COG": "5.1.1.1", "DEFINIDO": "Muebles de oficina y estantería" },
+  { "COG": "5.1.2.1", "DEFINIDO": "Muebles, excepto de oficina y estantería" },
+  { "COG": "5.1.5.1", "DEFINIDO": "Equipo de cómputo y de tecnologías de la información" },
+  { "COG": "5.1.9.1", "DEFINIDO": "Otros mobiliarios y equipos de administración" },
+  { "COG": "5.2.1.1", "DEFINIDO": "Equipos y aparatos audiovisuales" },
+  { "COG": "5.2.2.1", "DEFINIDO": "Aparatos deportivos" },
+  { "COG": "5.2.3.1", "DEFINIDO": "Cámaras fotográficas y de video" },
+  { "COG": "5.2.9.1", "DEFINIDO": "Otro mobiliario y equipo educacional y recreativo" },
+  { "COG": "5.3.1.1", "DEFINIDO": "Equipo médico y de laboratorio" },
+  { "COG": "5.3.2.1", "DEFINIDO": "Instrumental médico y de laboratorio" },
+  { "COG": "5.4.1.2", "DEFINIDO": "Vehículos y equipo terrestre, destinados a servicios administrativos" },
+  { "COG": "5.6.1.1", "DEFINIDO": "Maquinaria y equipo agropecuario" },
+  { "COG": "5.6.4.1", "DEFINIDO": "Sistemas de aire acondicionado, calefacción y de refrigeración industrial y comercial" },
+  { "COG": "5.6.5.1", "DEFINIDO": "Equipo de comunicación y telecomunicación" },
+  { "COG": "5.6.6.1", "DEFINIDO": "Equipo de generación eléctrica, aparatos y accesorios eléctricos" },
+  { "COG": "5.6.9.5", "DEFINIDO": "Maquinaria y equipo diverso" },
+  { "COG": "5.7.1.1", "DEFINIDO": "Bovinos" },
+  { "COG": "5.7.2.1", "DEFINIDO": "Porcinos" },
+  { "COG": "5.7.3.1", "DEFINIDO": "Aves" },
+  { "COG": "5.7.4.1", "DEFINIDO": "Ovinos y caprinos" },
+  { "COG": "5.7.5.1", "DEFINIDO": "Peces y acuicultura" },
+  { "COG": "5.7.6.1", "DEFINIDO": "Equinos" },
+  { "COG": "5.7.8.1", "DEFINIDO": "Árboles y plantas" },
+  { "COG": "1.1.3.1", "DEFINIDO": "Sueldos base al personal de base" },
+  { "COG": "1.1.3.2", "DEFINIDO": "Sueldos base al personal de confianza" },
+  { "COG": "1.3.1.1", "DEFINIDO": "Prima quinquenal por años de servicios efectivos prestados" },
+  { "COG": "1.3.1.2", "DEFINIDO": "Prima de antigüedad" },
+  { "COG": "1.3.2.1", "DEFINIDO": "Primas de vacaciones y dominical" },
+  { "COG": "1.3.2.2", "DEFINIDO": "Aguinaldo o gratificación de fin de año" },
+  { "COG": "1.3.4.9", "DEFINIDO": "Otras compensaciones" },
+  { "COG": "1.4.1.1", "DEFINIDO": "Aportaciones de seguridad social" },
+  { "COG": "1.4.2.1", "DEFINIDO": "Aportaciones a fondos de vivienda" },
+  { "COG": "1.4.3.1", "DEFINIDO": "Aportaciones al sistema para el retiro" },
+  { "COG": "1.4.4.1", "DEFINIDO": "Aportaciones para seguros" },
+  { "COG": "1.5.2.1", "DEFINIDO": "Indemnizaciones por separación" },
+  { "COG": "1.5.3.1", "DEFINIDO": "Prestaciones y haberes de retiro" },
+  { "COG": "1.5.4.3", "DEFINIDO": "Prestaciones establecidas por condiciones generales de trabajo o contratos colectivos" },
+  { "COG": "1.5.9.1", "DEFINIDO": "Otras prestaciones sociales" },
+  { "COG": "2.1.1.1", "DEFINIDO": "Materiales, útiles y equipos menores de oficina" },
+  { "COG": "2.1.2.1", "DEFINIDO": "Materiales y útiles de impresión y reproducción" },
+  { "COG": "2.1.4.1", "DEFINIDO": "Materiales, útiles y equipos menores de tecnologías de la información y comunicaciones" },
+  { "COG": "2.1.5.1", "DEFINIDO": "Material impreso e información digital" },
+  { "COG": "2.1.6.1", "DEFINIDO": "Material de limpieza" },
+  { "COG": "2.1.7.1", "DEFINIDO": "Materiales y útiles de enseñanza" },
+  { "COG": "2.2.1.3", "DEFINIDO": "Productos alimenticios para el personal en las instalaciones de las dependencias" },
+  { "COG": "2.2.2.1", "DEFINIDO": "Productos alimenticios para animales" },
+  { "COG": "2.2.3.1", "DEFINIDO": "Utensilios para el servicio de alimentación" },
+  { "COG": "2.3.8.1", "DEFINIDO": "Mercancías adquiridas para su comercialización" },
+  { "COG": "2.5.2.1", "DEFINIDO": "Fertilizantes, pesticidas y otros agroquímicos" },
+  { "COG": "2.5.3.1", "DEFINIDO": "Medicinas y productos farmacéuticos" },
+  { "COG": "2.5.4.1", "DEFINIDO": "Materiales, accesorios y suministros médicos" },
+  { "COG": "2.5.5.1", "DEFINIDO": "Materiales, accesorios y suministros de laboratorio" },
+  { "COG": "2.6.1.2", "DEFINIDO": "Combustibles, lubricantes y aditivos para vehículos administrativos" },
+  { "COG": "2.7.1.1", "DEFINIDO": "Vestuario y uniformes" },
+  { "COG": "2.7.2.1", "DEFINIDO": "Prendas de seguridad y protección personal" },
+  { "COG": "2.7.3.1", "DEFINIDO": "Artículos deportivos" },
+  { "COG": "2.9.1.1", "DEFINIDO": "Herramientas menores" },
+  { "COG": "2.9.2.1", "DEFINIDO": "Refacciones y accesorios menores de edificios" },
+  { "COG": "2.9.3.1", "DEFINIDO": "Refacciones y accesorios menores de mobiliario y equipo educacional" },
+  { "COG": "2.9.4.1", "DEFINIDO": "Refacciones y accesorios menores de equipo de cómputo y TI" },
+  { "COG": "2.9.5.1", "DEFINIDO": "Refacciones y accesorios menores de equipo e instrumental médico" },
+  { "COG": "2.9.6.1", "DEFINIDO": "Refacciones y accesorios menores de equipo de transporte" },
+  { "COG": "2.9.8.1", "DEFINIDO": "Refacciones y accesorios menores de maquinaria y otros equipos" },
+  { "COG": "2.9.9.1", "DEFINIDO": "Refacciones y accesorios menores otros bienes muebles" },
+  { "COG": "3.1.1.1", "DEFINIDO": "Servicio de energía eléctrica" },
+  { "COG": "3.1.2.1", "DEFINIDO": "Gas" },
+  { "COG": "3.1.3.1", "DEFINIDO": "Servicio de agua" },
+  { "COG": "3.1.4.1", "DEFINIDO": "Telefonía tradicional" },
+  { "COG": "3.1.5.1", "DEFINIDO": "Telefonía celular" },
+  { "COG": "3.1.6.1", "DEFINIDO": "Servicios de radiolocalización" },
+  { "COG": "3.1.6.2", "DEFINIDO": "Servicios de telecomunicaciones" },
+  { "COG": "3.1.7.1", "DEFINIDO": "Servicios de acceso de internet, redes y procesamiento de información" },
+  { "COG": "3.1.7.2", "DEFINIDO": "Servicios de redes y procesamiento de información" },
+  { "COG": "3.1.8.1", "DEFINIDO": "Servicio postal" },
+  { "COG": "3.1.8.2", "DEFINIDO": "Servicio telegráfico" },
+  { "COG": "3.1.9.3", "DEFINIDO": "Otros servicios integrales" },
+  { "COG": "3.2.1.1", "DEFINIDO": "Arrendamiento de terrenos" },
+  { "COG": "3.2.2.1", "DEFINIDO": "Arrendamiento de edificios" },
+  { "COG": "3.2.3.1", "DEFINIDO": "Arrendamiento de mobiliario" },
+  { "COG": "3.2.3.2", "DEFINIDO": "Arrendamiento de equipo y bienes informáticos" },
+  { "COG": "3.2.3.3", "DEFINIDO": "Arrendamiento de equipo de telecomunicaciones" },
+  { "COG": "3.2.4.1", "DEFINIDO": "Arrendamiento de equipo e instrumental médico y de laboratorio" },
+  { "COG": "3.2.5.2", "DEFINIDO": "Arrendamiento de vehículos para servicios administrativos" },
+  { "COG": "3.2.6.1", "DEFINIDO": "Arrendamiento de maquinaria, otros equipos y herramientas" },
+  { "COG": "3.2.7.1", "DEFINIDO": "Arrendamiento de activos intangibles" },
+  { "COG": "3.2.9.1", "DEFINIDO": "Otros arrendamientos" },
+  { "COG": "3.3.1.1", "DEFINIDO": "Servicios relacionados con procedimientos jurisdiccionales" },
+  { "COG": "3.3.1.2", "DEFINIDO": "Otros servicios para la operación de programas" },
+  { "COG": "3.3.3.1", "DEFINIDO": "Servicios de desarrollo de aplicaciones informáticas" },
+  { "COG": "3.3.3.3", "DEFINIDO": "Servicios relacionados con certificación de procesos" },
+  { "COG": "3.3.3.4", "DEFINIDO": "Servicios de mantenimiento de aplicaciones informáticas" },
+  { "COG": "3.3.4.1", "DEFINIDO": "Capacitación institucional" },
+  { "COG": "3.3.6.2", "DEFINIDO": "Servicios de apoyo administrativo, fotocopiado e impresión" },
+  { "COG": "3.3.6.3", "DEFINIDO": "Servicios de impresión de documentos oficiales" },
+  { "COG": "3.3.6.4", "DEFINIDO": "Servicios de impresión de material informativo" },
+  { "COG": "3.3.6.6", "DEFINIDO": "Servicios de digitalización" },
+  { "COG": "3.3.8.1", "DEFINIDO": "Servicios de vigilancia" },
+  { "COG": "3.3.9.1", "DEFINIDO": "Servicios profesionales, científicos y técnicos integrales" },
+  { "COG": "3.4.1.1", "DEFINIDO": "Servicios financieros y bancarios" },
+  { "COG": "3.4.3.1", "DEFINIDO": "Servicios de recaudación, traslado y custodia de valores" },
+  { "COG": "3.4.5.1", "DEFINIDO": "Seguros de bienes patrimoniales" },
+  { "COG": "3.4.7.1", "DEFINIDO": "Fletes y maniobras" },
+  { "COG": "3.5.1.1", "DEFINIDO": "Mantenimiento y conservación menor de inmuebles" },
+  { "COG": "3.5.2.1", "DEFINIDO": "Instalación, reparación y mantenimiento de mobiliario y equipo" },
+  { "COG": "3.5.3.1", "DEFINIDO": "Instalación, reparación y mantenimiento de equipo de cómputo y TI" },
+  { "COG": "3.5.4.1", "DEFINIDO": "Instalación, reparación y mantenimiento de equipo e instrumental médico" },
+  { "COG": "3.5.5.1", "DEFINIDO": "Reparación y mantenimiento de equipo de transporte" },
+  { "COG": "3.5.7.1", "DEFINIDO": "Instalación, reparación y mantenimiento de maquinaria y otros equipos" },
+  { "COG": "3.5.8.1", "DEFINIDO": "Servicios de limpieza y manejo de desechos" },
+  { "COG": "3.5.9.1", "DEFINIDO": "Servicios de jardinería y fumigación" },
+  { "COG": "3.6.1.1", "DEFINIDO": "Difusión de mensajes sobre programas y actividades gubernamentales" },
+  { "COG": "3.6.6.1", "DEFINIDO": "Servicio de creación y difusión de contenido digital" },
+  { "COG": "3.6.9.1", "DEFINIDO": "Otros servicios de información" },
+  { "COG": "3.7.1.1", "DEFINIDO": "Pasajes aéreos nacionales" },
+  { "COG": "3.7.1.2", "DEFINIDO": "Pasajes aéreos internacionales" },
+  { "COG": "3.7.2.1", "DEFINIDO": "Pasajes terrestres nacionales" },
+  { "COG": "3.7.2.2", "DEFINIDO": "Pasajes terrestres internacionales" },
+  { "COG": "3.7.5.1", "DEFINIDO": "Viáticos en el país" },
+  { "COG": "3.7.6.1", "DEFINIDO": "Viáticos en el extranjero" },
+  { "COG": "3.7.9.1", "DEFINIDO": "Otros servicios de traslado y hospedaje" },
+  { "COG": "3.8.1.1", "DEFINIDO": "Gastos de ceremonial" },
+  { "COG": "3.8.2.1", "DEFINIDO": "Gastos de orden social" },
+  { "COG": "3.8.2.2", "DEFINIDO": "Gastos de orden cultural" },
+  { "COG": "3.8.3.1", "DEFINIDO": "Congresos y convenciones" },
+  { "COG": "3.9.1.1", "DEFINIDO": "Servicios funerarios y de cementerios" },
+  { "COG": "3.9.2.1", "DEFINIDO": "Otros impuestos y derechos" },
+  { "COG": "3.9.2.2", "DEFINIDO": "Impuestos y derechos de exportación" },
+  { "COG": "3.9.3.1", "DEFINIDO": "Impuestos y derechos de importación" },
+  { "COG": "3.9.5.1", "DEFINIDO": "Penas, multas, accesorios y actualizaciones" },
+  { "COG": "3.9.9.3", "DEFINIDO": "Otros servicios generales" },
+  { "COG": "4.4.2.1", "DEFINIDO": "Ayudas para capacitación y becas" },
+  { "COG": "4.5.1.1", "DEFINIDO": "Pensiones" }
 ]
